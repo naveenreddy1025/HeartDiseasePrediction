@@ -1,8 +1,8 @@
-❤️ Heart Disease Prediction App
+#❤️ Heart Disease Prediction App
 
 A Machine Learning-powered web application that predicts the likelihood of heart disease based on patient health parameters. Built using Python, Streamlit, and Scikit-learn.
 
-🚀 Project Overview
+#🚀 Project Overview
 
 This project uses a trained machine learning model to analyze patient data and predict whether a person is at risk of heart disease.
 
